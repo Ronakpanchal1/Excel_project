@@ -1,0 +1,84 @@
+{
+    "header":[
+        [
+            {
+                "content":"Form F\n[See Rule 12]\nRegister showing dates of Lime-washing etc\nThe Maharastra Shop & Establishment Rules, 1961",
+                "colSpan":8,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Name and address of the Establishment",
+                "colSpan":3,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"{{'company_name'}}\n{{'company_address'}}",
+                "colSpan":5,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Parts of Establishment e.g. Name of rooms",
+                "colSpan":1,
+                "rowSpan":2,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Parts lime washed,colour washed,painted or varnished i.e wall ceilings, wood work, etc",
+                "colSpan":1,
+                "rowSpan":2,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Treatment whether lime washed painted or varnished",
+                "colSpan":1,
+                "rowSpan":2,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Date on which lime washing, painting or varnishing was carried out (according to the English calender)",
+                "colSpan":3,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Signature of the Employer or Manager",
+                "colSpan":1,
+                "rowSpan":2,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Remarks",
+                "colSpan":1,
+                "rowSpan":2,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Date",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Month",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Year",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ]
+    ]
+}

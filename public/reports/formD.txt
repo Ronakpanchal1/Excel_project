@@ -1,0 +1,152 @@
+{
+  "header": [
+    [
+      {
+        "content": "FORM D \n[See Rule 6]\nRegister to be maintained by the employer under Rule 6 of the Equal Remuneration Rules, 1976",
+        "colSpan": 10,
+        "rowSpan": 1,
+        "styles": { "halign": "center", "valign": "middle" }
+      }
+    ],
+    [
+        {
+            "content":"Name of the establishment with full address",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"valign":"middle"}
+        },
+        {
+            "content":"{{'company_name'}}\n{{'company_address'}}",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"valign":"middle"}
+        }
+    ],
+    [
+        {
+            "content":"Total number of workers employed",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{ "valign": "middle"}
+        },
+        {
+            "content":"736",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"halign": "center", "valign": "middle"}
+        }
+    ],
+    [
+        {
+            "content":"Total number of men workers employed",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{ "valign": "middle"}
+        },
+        {
+            "content":"535",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"halign": "center", "valign": "middle"}
+        }
+    ],
+    [
+        {
+            "content":"Total number of women workers employed",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{ "valign": "middle"}
+        },
+        {
+            "content":"201",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"halign": "center", "valign": "middle"}
+        }
+    ],
+    [
+        {
+            "content":"For the month of",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{ "valign": "middle"}
+        },
+        {
+            "content":"{{'report_month'}}",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"halign": "center", "valign": "middle"}
+        }
+    ],
+    [
+        {
+            "content":"Category of workers",
+            "colSpan":1,
+            "rowSpan":2,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"Brief description of work",
+            "colSpan":1,
+            "rowSpan":2,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"No. of men employed",
+            "colSpan":1,
+            "rowSpan":2,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"No. of women employed",
+            "colSpan":1,
+            "rowSpan":2,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"Rate of remuneration paid",
+            "colSpan":1,
+            "rowSpan":2,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"Components of remuneration",
+            "colSpan":5,
+            "rowSpan":1,
+            "styles":{"halign":"center","valign":"middle"}
+        }
+    ],
+    [
+        {
+            "content":"Basic wage or salary",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"Dearness allowance",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"House rent allowance",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"Other allowances",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles":{"halign":"center","valign":"middle"}
+        },
+        {
+            "content":"Cash value of concessional supply of essential commodities",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles":{"halign":"center","valign":"middle"}
+        }
+    ]
+  ]
+}

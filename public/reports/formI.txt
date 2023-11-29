@@ -1,0 +1,122 @@
+{
+    "header":[
+        [
+            {
+                "content":"Form I\n[See Rule 12]\nRegister of Employment\nMaharastra workmen's Minimum House Rent Allowance Rule, 1990",
+                "colSpan":11,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Name and Address of Establishment :",
+                "colSpan":4,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"{{'company_name'}}\n{{'company_address'}}",
+                "colSpan":7,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Month",
+                "colSpan":4,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"{{'report_month'}}",
+                "colSpan":7,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Industry ",
+                "colSpan":4,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"Commercial Establishment",
+                "colSpan":7,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content" : "S.No",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Employee Code",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Name of the person employed",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Date of appointment",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Post Held or Nature of Job Performed",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Basic Pay",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Dearness Allowance",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Other Allowance",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Total",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Amount of H.R.A. Paid",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content" : "Signature of the Person Employed with date therof",
+                "colSpan" : 1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ]
+    ]
+}

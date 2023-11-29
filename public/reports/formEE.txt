@@ -1,0 +1,117 @@
+{
+  "header": [
+    [
+        {
+            "content": "Form EE \n[See Rule 11A]\nRegister of Entering refusal of leave\nMaharastra Shops & Establishments Rules, 1961",
+            "colSpan": 10,
+            "rowSpan": 1,
+            "styles": { "halign": "center", "valign": "middle" }
+        }
+    ],
+    [
+        {
+            "content":"Name and Address of Establishment :",
+            "colSpan":4,
+            "rowSpan":1,
+            "styles":{"valign":"middle"}
+        },
+        {
+            "content": "{{'company_name'}}\n{{'company_address'}}",
+            "colSpan": 12,
+            "rowSpan": 1,
+            "styles": { "valign": "middle" }
+        }
+    ],
+    [
+        {
+            "content":"Name of the Employer :",
+            "colSpan":4,
+            "rowSpan":1,
+            "styles":{"valign":"middle"}
+        },
+       {
+            "content": "{{'company_name'}}\n{{'company_address'}}",
+            "colSpan": 12,
+            "rowSpan": 1,
+            "styles": { "valign": "middle" }
+        }
+    ],
+    [
+        {
+            "content":"For the Year",
+            "colSpan":4,
+            "rowSpan":1,
+            "styles":{"valign":"middle"}
+        },
+        {
+            "content": "{{'report_month'}}",
+            "colSpan": 12,
+            "rowSpan": 1,
+            "styles": { "valign": "middle" }
+         }
+    ],
+    [
+        {
+            "content":"S.No",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Ecode",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Name of the person employed",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Designation",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Date of Joining",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Amount of Leave Due",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Date from which Leave Due",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Amount of Leave applied for and Date of application",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Date of Refusal",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        },
+        {
+            "content":"Remarks",
+            "colSpan":1,
+            "rowSpan":1,
+            "styles": { "halign": "center", "valign": "middle" }
+        }
+    ]
+ 
+  ]
+}

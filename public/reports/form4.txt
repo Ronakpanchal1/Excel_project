@@ -1,0 +1,116 @@
+{
+    "header":[
+        [
+            {
+                "content":"Form IV\n[See Rule 18]\nRegister of Advance Made to employed persons\nThe Maharastra Payment of Wages Rules, 1963.",
+                "colSpan":10,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Name and address of the establishment:",
+                "colSpan":3,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"{{'company_name'}}\n{{'company_address'}}",
+                "colSpan":7,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Month",
+                "colSpan":3,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"{{'report_month'}}",
+                "colSpan":7,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"Registration No:",
+                "colSpan":3,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            },
+            {
+                "content":"",
+                "colSpan":7,
+                "rowSpan":1,
+                "styles":{"valign":"middle"}
+            }
+        ],
+        [
+            {
+                "content":"S.No",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Name",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Father's/Husband's name",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Department",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Date on which advance was given",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Purposes for which advances made",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Number of Instalments by which advance to be repaid",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Postponements granted",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Dates on which total amount repaid",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            },
+            {
+                "content":"Remarks",
+                "colSpan":1,
+                "rowSpan":1,
+                "styles":{"halign":"center","valign":"middle"}
+            }
+        ]
+    ]
+}

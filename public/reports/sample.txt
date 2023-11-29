@@ -1,0 +1,54 @@
+{
+  "header": [
+    [
+      {
+        "content": "FORM B \n[See Rule 21]\nRegister of wages\nThe Bombay Labour Welfare fund Rules 1953",
+        "colSpan": 21,
+        "rowSpan": 1,
+        "styles": { "halign": "center", "valign": "middle" }
+      }
+    ],
+    [
+      { "content": "Name and address of the Establishment", "colSpan": 9, "rowSpan": 1, "styles": { "valign": "middle" } },
+      {
+        "content": "{{'company_name'}}\n{{'company_address'}}",
+        "colSpan": 12,
+        "rowSpan": 1,
+        "styles": { "valign": "middle" }
+      }
+    ],
+    [
+      { "content": "For the month of", "colSpan": 9, "rowSpan": 1, "styles": { "valign": "middle" } },
+      { "content": "{{'report_month'}}", "colSpan": 12, "rowSpan": 1, "styles": { "valign": "middle" } }
+    ],
+    [
+      { "content": "S.no.", "colSpan": 1, "rowSpan": 2, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Name of the Employee", "colSpan": 1, "rowSpan": 2, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Ticket & Badge No", "colSpan": 1, "rowSpan": 2, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Occupation", "colSpan": 1, "rowSpan": 2, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Amount Payable during the month", "colSpan": 5, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Amount Deducted during the month", "colSpan": 3, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Amount actually paid during the month", "colSpan": 5, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Balance due to the employee", "colSpan": 4, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } }
+    ],
+    [
+      { "content": "Basic Wages 1", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Over Time 1", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "D.A & other allow. 1", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Bonus 1", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Total Amount Payable", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Fines", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Other Deductions", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Total Amount Deducted", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Basic Wages 2", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Over Time 2", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "D.A & other allow. 2", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Bonus 2", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Total Amount Paid", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Basic Wages", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Over Time", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "Bonus", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } },
+      { "content": "D.A & other allow.", "colSpan": 1, "rowSpan": 1, "styles": { "halign": "center", "valign": "middle" } }
+    ]
+  ]
+}
